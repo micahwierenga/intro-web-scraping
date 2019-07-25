@@ -270,11 +270,6 @@ Learn while working with out evening part-time classes
 Please feel free to reach out to me with any questions! Let me know what you're planning to do next and how I can help!
 
 
-- Website: [sageelliott.com](http://sageelliott.com/)
-- Twitter: [@sagecodes](https://twitter.com/@sagecodes)
-- LinkedIn: [sageelliott](https://www.linkedin.com/in/sageelliott/) 
-- Email: [sage.elliott@galvanize.com](mailto:sage.elliott@galvanize.com)
-
 
 
 

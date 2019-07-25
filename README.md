@@ -1,16 +1,10 @@
 # Learn to Code: Introduction Web Scraping
 
-Learn more Data Science Basics with our free Prep course!
-http://bit.ly/gprepdata
-
-Start Learning Web Development with our free Prep course!
-http://bit.ly/gsoftprep
-
-Get to this repo by typing in URL: **scrape.sage.codes**
+Get to this repo by typing in URL: github.com/nkrao220/intro-web-scraping/
 
 ### FAQ: 
 
-- WIFI: `Galvanize Guest` | Password posted on walls 
+- WIFI: `GEvents` | Password: `GEvents1644`
 - Bathrooms: Behind you down the hall to the left
 - Kitchen outside back classroom door with Coffee & Tea!
 - Snacks + water in back of room
@@ -51,27 +45,9 @@ Well... that was easy!
 
 
 ## About me:
-Hello I'm [Sage Elliott](http://sageelliott.com/). I'm a Technology Evangelist here at Galvanize! Previously I've worked as a software and hardware engineer with Startups and Agencies in Seattle, WA and Melbourne, FL. I love making things with technology! 
+Hello I'm Neha Rao. I'm a Data Science Instructor here at Galvanize! Previously I've worked as a Chemist before enrolling in the Data Science Immersive here. I love all things data!
 
-I'll actually be making a web scraper soon to get images of houses for a GAN project!
-
-**Note:** I'm not a Galvanize Instructor, they're way better at teaching! 
-
-Reach out to me if interested in:
-
-- breaking into the tech industry 
-- learning resources
-- meetup recommendations 
-- learning more about Galvanize
-- giving me suggestions for events!
-- being friends
-
-
-- Website: [sageelliott.com](http://sageelliott.com/)
-- Twitter: [@sagecodes](https://twitter.com/@sagecodes)
-- LinkedIn: [sageelliott](https://www.linkedin.com/in/sageelliott/) 
-- Email: [sage.elliott@galvanize.com](mailto:sage.elliott@galvanize.com)
-
+Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/neha-k-rao/)
 
 ## About you!
 
